@@ -1,3 +1,6 @@
+To optimize the provided HTML code for SEO, we can add relevant meta tags in the `<head>` section. Here’s an updated version of the code with the necessary meta tags included:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
