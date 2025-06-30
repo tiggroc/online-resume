@@ -243,7 +243,7 @@
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
                 <!-- Skills -->
-                <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
+                <div class="bg-gray-900 p-6 rounded-lg shadow-lg">
                     <h3 class="text-xl font-semibold old-gold mb-4 flex items-center">
                         <i class="fas fa-code mr-2"></i> Technical Skills
                     </h3>
