@@ -294,7 +294,7 @@
                 </div>
                 
                 <!-- Certifications -->
-                <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
+                <div class="bg-gray-900 p-6 rounded-lg shadow-lg">
                     <h3 class="text-xl font-semibold old-gold mb-4 flex items-center">
                         <i class="fas fa-certificate mr-2"></i> Certifications
                     </h3>
