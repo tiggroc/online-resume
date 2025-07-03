@@ -169,9 +169,9 @@
             <div class="lg:w-1/2 flex justify-center relative">
                 <div class="relative w-64 h-64 md:w-80 md:h-80">
                     <div class="absolute inset-0 rounded-full bg-gradient-to-tr from-tech-blue to-bright-teal blur-xl opacity-30"></div>
-                    <div class="relative w-full h-full rounded-full bg-dark-cobalt flex items-center justify-center overflow-hidden border-4 border-exec-green">
-                        <img src="https://rose-terza-47.tiiny.site/" alt="Dr. Ojari Dey-Foy" class="w-full h-full object-cover">
-                    </div>
+                    <div class="w-60 h-60 md:w-72 md:h-72 bg-black rounded-full overflow-hidden border-4 border-old-gold">
+    <img src="https://rose-terza-47.tiiny.site/Screenshot_20250702_195737_LinkedIn-size-reduce.jpg/" alt="Dr. Ojari Dey-Foy Profile" class="w-full h-full object-cover">
+</div>
                 </div>
                 
                 <div class="absolute -bottom-5 -right-5 w-16 h-16 rounded-full bg-tech-blue border-4 border-dark-cobalt flex items-center justify-center pulse-animation">
